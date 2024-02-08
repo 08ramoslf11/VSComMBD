@@ -1,0 +1,6 @@
+@VSComMDB_HostAddress = http://localhost:5105
+
+GET {{VSComMDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
